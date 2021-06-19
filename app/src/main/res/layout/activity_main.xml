@@ -56,17 +56,6 @@
             android:textStyle="bold" />
     </RadioGroup>
 
-    <!--    <RelativeLayout-->
-    <!--        android:layout_width="410dp"-->
-    <!--        android:layout_height="156dp"-->
-    <!--        android:orientation="horizontal"-->
-    <!--        app:layout_constraintBottom_toTopOf="@+id/button"-->
-    <!--        app:layout_constraintEnd_toEndOf="parent"-->
-    <!--        app:layout_constraintHorizontal_bias="1.0"-->
-    <!--        app:layout_constraintStart_toStartOf="parent"-->
-    <!--        app:layout_constraintTop_toBottomOf="@+id/radioGroup"-->
-    <!--        app:layout_constraintVertical_bias="0.476">-->
-
 
     <TextView
         android:id="@+id/textView4"
@@ -138,7 +127,7 @@
         android:textStyle="bold"
         app:layout_constraintBottom_toBottomOf="@+id/inches"
         app:layout_constraintEnd_toEndOf="@+id/radioGroup" />
-    <!--    </RelativeLayout>-->
+
     <Button
         android:id="@+id/button"
         android:layout_width="wrap_content"
