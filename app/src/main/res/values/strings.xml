@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">MyCalculator</string>
+    <string name="title">Calculate Standard Weight</string>
+    <string name="gender">Gender</string>
+    <string name="male">Male</string>
+    <string name="female">Female</string>
+    <string name="Height">Height</string>
+    <string name="feet">feet</string>
+    <string name="inches">inches</string>
+    <string name="calculate">Calculate</string>
+    <string name="resultGender">You are %1$s</string>
+    <string name="resultHeight">Your height is %1$d\'%2$d"</string>
+    <string name="resultBmi">Your standard weight is %1$.2f kg</string>
+</resources>
